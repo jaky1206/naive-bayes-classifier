@@ -14,5 +14,5 @@ This repository contains a Naive Bayes Classifier implemented as an assignment f
 To use this classifier, ensure you have Jupyter Notebook installed and the required packages from `requirements.txt`.
 
 ## Acknowledgments
-- Kaggle for providing the "Adult-dataset".
+- Kaggle for providing the Adult-dataset and codes.
 - GitHub for hosting this repository and the GitHub Codespaces feature.
